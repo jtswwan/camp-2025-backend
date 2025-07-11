@@ -9,4 +9,3 @@ dependencies = [
 ]
 
 [tool.uv]
-project = false
